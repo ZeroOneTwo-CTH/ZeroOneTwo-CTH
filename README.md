@@ -63,3 +63,6 @@ We have not finalised the licence type for this project. For now, please contact
 ---
 
 Join us as we explore the limitless possibilities of creative technology!
+
+<img width="980" alt="Screenshot 2024-09-30 at 16 44 10" src="https://github.com/user-attachments/assets/922fe650-7745-4b8f-80bd-8c458253aeee">
+
