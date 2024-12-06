@@ -1,5 +1,5 @@
 
-# Contributing to ZeroOneTwo Creative Technology Hub
+# Contributing to Zero.One.Two: Creative Technology Hub
 
 Thank you for your interest in contributing to the ZeroOneTwo Creative Technology Hub at Northumbria! We welcome contributions from students, staff, and the wider community. Whether you're fixing bugs, suggesting features, or improving documentation, your efforts are greatly appreciated.
 
