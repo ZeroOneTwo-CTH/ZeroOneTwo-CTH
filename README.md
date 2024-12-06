@@ -1,9 +1,9 @@
-# ZeroOneTwo Creative Technology Hub at Northumbria University
+# Zero.One.Two: Creative Technology Hub at Northumbria University
 
-Welcome to the official repository for the **ZeroOneTwo Creative Technology Hub** at Northumbria University! 
+Welcome to the official repository for the **Zero.One.Two: Creative Technology Hub** at Northumbria University! 
 
 ## About Us
-The ZeroOneTwo Creative Technology Hub is a vibrant, interdisciplinary space at Northumbria University dedicated to fostering innovation, collaboration, and creativity in the fields of technology, design, and art. We bring together students, staff, and industry professionals to explore cutting-edge solutions and create impactful projects.
+The Zero.One.Two Creative Technology Hub is a vibrant, interdisciplinary space at Northumbria University dedicated to fostering innovation, collaboration, and creativity in the fields of technology, design, and art. We bring together students, staff, and industry professionals to explore cutting-edge solutions and create impactful projects.
 
 ## Our Mission
 We aim to:
